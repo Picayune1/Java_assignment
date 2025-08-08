@@ -1,0 +1,11 @@
+Test 5 (Pathfinding)
+Width:5
+Height:5
+Seed:5
+=====
+LLLLL
+SSSSL
+SXXOL
+SXXSL
+LXXLL
+=====

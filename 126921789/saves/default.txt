@@ -1,0 +1,11 @@
+DefaultScenario
+Width:5
+Height:5
+Seed:10
+=====
+LLLLL
+LLLLL
+LLLLL
+LLLLL
+LLLLL
+=====

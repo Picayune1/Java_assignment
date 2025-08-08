@@ -1,0 +1,11 @@
+Test 4 (Lines)
+Width:5
+Height:5
+Seed:4
+=====
+LLLLL
+SSSSS
+OOOOO
+SSSSS
+LLLLL
+=====
